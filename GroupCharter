@@ -3,17 +3,20 @@
 
     Availability for meeting expectations:
     
-        Group will meet during lab time. During lab, group will determine if another meeting for the week is needed and will schedule the next meeting. 
-        If group does not end up with time to meet during lab, group will still need to schedule another meeting.
-        Meetings outside of lab should not exceed one hour. If additional time is needed, group with schedule additional meeting.
-        Group will track attendance to meetings in a document in Teams. Consequences will occur after a third missed meeting.
-        Being more than 5 minutes late to a meeting on 3 occassions will count as a missed meeting.
+
+        Group will meet during lab time. During lab, group will determine if another meeting for the week is needed and will schedule the next meeting. If 
+        the group could not meet during lab they will schedule a different meeting. Meetings outside of lab should not exceed one hour; if additional 
+        time is needed, group with schedule additional meetings. Group will track attendance to meetings in a document in Teams. 
+        Consequences will occur after a third missed meeting. Being more than 5 minutes late to a meeting on 3 occassions will count as a missed meeting.
+
     
     Response time to communication expectations:
     
         Everyone should respond to email or Teams chats within 24 hours, except on weekends.
+        Exceptions may be made for emergency reasons.
     
     Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+                        changes should be approved by the majority of the group before they are set in place
     
     Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
     
@@ -24,9 +27,9 @@
         must include at least 3 actions before involving the instructor
         
         Other punishible offenses:
-        Missing projects deadlines
-        Lack of communication or late communication
-        Not meeting SOLID programming standards
+        - Missing projects deadlines
+        - Lack of communication or late communication
+        - Not meeting SOLID programming standards
         
         Each offense will get a "tally" in the Teams documents. Two tallys gets a strongly worded email. Three tallys gets an email to professor.
         
@@ -36,3 +39,7 @@
     
     Brandon Lauber
     Haley Kloss
+    Matthew Keller 
+    Ryan Nyemeck
+
+
