@@ -2,36 +2,41 @@
 <group name>
 
     Availability for meeting expectations:
-    
-
         Group will meet during lab time. During lab, group will determine if another meeting for the week is needed and will schedule the next meeting. If 
-        the group could not meet during lab they will schedule a different meeting. Meetings outside of lab should not exceed one hour; if additional 
+        the group could not meet during lab they will schedule a separate meeting. Meetings outside of lab should not exceed one hour; if additional 
         time is needed, group with schedule additional meetings. Group will track attendance to meetings in a document in Teams. 
         Consequences will occur after a third missed meeting. Being more than 5 minutes late to a meeting on 3 occassions will count as a missed meeting.
-
     
     Response time to communication expectations:
+        Communication will primarily be held through teams; for general communication all responses should be made within 24 hours. 
+        Eceptions include: 
+            Weekends - responses must be made by the end of sunday evening. 
+            Nearing deadlines - responses must come faster whenever there is an upcoming deadline. Group members should respond to communication by the end of the same day.
+            Emergencies - if there is an emergency the individual does not need to communicate within the normal time period, this person must notify 
+                          other members of an emergency as soon as possible
+            
+    Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.):    
+        All changes must be reviewed and approved by two other members of the group before they are merged with the main branch, at this point the task is considered complete.  
+        If a task is not completed on time then 
     
-        Everyone should respond to email or Teams chats within 24 hours, except on weekends.
-        Exceptions may be made for emergency reasons.
-    
-    Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-                        changes should be approved by the majority of the group before they are set in place
-    
-    Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+    Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):  
+        Scrum meetings will be scheduled by the group during lab sections, they will last for 15 minutes and be roughly every other day. Each user has the responsibility to 
+        update task board as necessary. All decisions will be made by majority vote in the group, if there is a 2-2 tie then Haley gets to make the final decision. 
     
     Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) 
-        if you adopt such a policy during the initial meeting, put it here
+    if you adopt such a policy during the initial meeting, put it here:
+        All code must: follow basic SOLID principles, include reasonable documentation (if necessary), and contain appropriate comments. All members should already be familiar
+        with these ideas and have practice implementing them in previous work. 
 
-    Procedure for handling a member who is not meeting expectations
-        must include at least 3 actions before involving the instructor
-        
-        Other punishible offenses:
+    Procedure for handling a member who is not meeting expectations:  
+        List of offenses other than tardiness:
         - Missing projects deadlines
         - Lack of communication or late communication
         - Not meeting SOLID programming standards
         
-        Each offense will get a "tally" in the Teams documents. Two tallys gets a strongly worded email. Three tallys gets an email to professor.
+        Each offense will get a "tally" in the Teams documents. If a person gets a single tally then the other members of the group will talk to them about their behavior 
+        during the next meeing, the individual with the tally has to come up with a sIf a person gets two tallys then the other group members will write an email 
+        detailing the problems and send it to the offending party. Three tallys warrants an email to professor or TA about that individuals conduct.
         
     
 
